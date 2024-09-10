@@ -1,5 +1,5 @@
 # desafios Target
 
-### Resoluão dos desafios propostos pela Empresa Target 💻
+### Resolução dos desafios propostos pela Empresa Target 💻
 
-#### A resolução dos exercios foram feitos usando a linguagem Java ☕.
+#### A resolução dos exercicios foram feitos usando a linguagem Java ☕.
